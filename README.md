@@ -18,7 +18,6 @@ I enjoy building things from scratch — from browser-based apps to backend APIs
 One of my biggest projects is a full-featured 2D **fantasy RPG game** built with **Pygame**.  
 It includes:
 - Multiple maps and areas
-- Turn-based combat system
 - Character progression
 - Inventory and dialogue system
 
