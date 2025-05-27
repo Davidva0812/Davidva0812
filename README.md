@@ -31,6 +31,7 @@ It includes:
 - [Halloween Game](https://github.com/Davidva0812/halloween-shooter-game) – Pygame project
 - [Movie API](https://github.com/Davidva0812/movie-api) – Python API project
 - [Weather API](https://github.com/Davidva0812/weather-api) – Python API project
+- [Bitcoin prediction](https://github.com/Davidva0812/bitcoin-prediction) – Python project using simple Machine Learning.
 - [Calculator](https://github.com/Davidva0812/weather-api) – Python project with Tkinter 
 
 
