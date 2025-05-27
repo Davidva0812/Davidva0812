@@ -25,11 +25,13 @@ It includes:
 
 ---
 
-## 📦 Other Projects
-- [API for Task Management](https://github.com/yourusername/task-api) – REST API using Flask and SQL  
-- [Mini Strategy Game](https://github.com/yourusername/strategy-minigame) – Small Pygame project  
-- [Data Analysis Portfolio](https://github.com/yourusername/data-analysis) – Notebooks with Python + Pandas  
+## 📦 Other Projects  
+- [Data Analysis](https://github.com/Davidva0812/financial-analysis) – Python + Pandas + Plotly
 - [Portfolio Website](https://github.com/yourusername/portfolio) – Personal website built with HTML/CSS/JS
+- [Halloween Game](https://github.com/Davidva0812/halloween-shooter-game) – Pygame project
+- [Weather API](https://github.com/Davidva0812/weather-api) – Python API project
+- [Calculator](https://github.com/Davidva0812/weather-api) – Python project with Tkinter 
+
 
 ---
 
