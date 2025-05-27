@@ -29,6 +29,7 @@ It includes:
 - [Data Analysis](https://github.com/Davidva0812/financial-analysis) – Python + Pandas + Plotly
 - [Portfolio Website](https://github.com/yourusername/portfolio) – Personal website built with HTML/CSS/JS
 - [Halloween Game](https://github.com/Davidva0812/halloween-shooter-game) – Pygame project
+- [Movie API](https://github.com/Davidva0812/movie-api) – Python API project
 - [Weather API](https://github.com/Davidva0812/weather-api) – Python API project
 - [Calculator](https://github.com/Davidva0812/weather-api) – Python project with Tkinter 
 
