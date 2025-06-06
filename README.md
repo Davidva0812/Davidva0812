@@ -44,6 +44,6 @@ I'm passionate about building apps, solving real-world problems with code, and l
 ---
 
 ## 📫 Get in touch
-- Email: [davvarga97@gmail.com](mailto:davvarga97@gmail.com)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Email: [david.varga.1208@gmail.com](mailto:david.varga.1208@gmail.com)
+- LinkedIn: [linkedin.com/in/david-varga-](https://linkedin.com/in/david-varga-)
 
