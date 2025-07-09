@@ -18,16 +18,22 @@ I enjoy building things from scratch — from browser-based apps to backend APIs
 One of my biggest projects is a full-featured 2D **fantasy RPG game** built with **Pygame**.  
 It includes:
 - Multiple maps and areas
+- 8 playable character class
 - Character progression
 - Inventory and dialogue system
+- Battle, saving system
+- Companions
+and much more...
 
-> **Check it out:** [Fantasy RPG Game Repository](https://github.com/yourusername/fantasy-rpg)
+> **Check it out:** Release date on GitHub: 20/07/2025.
 
 ---
 
 ## 📦 Other Projects  
+- [To-do List](https://github.com/Davidva0812/To-do-list) – React
+- [Portfolio Website](https://github.com/Davidva0812/Personal-portfolio) – Personal website built with HTML/CSS/JS(React)
+- [Fantasy RPG game Website](https://github.com/Davidva0812/Fantasy-website) – Website for Tales of Eldoria built with HTML/CSS(Bootstrap)/JS
 - [Data Analysis](https://github.com/Davidva0812/financial-analysis) – Python + Pandas + Plotly
-- [Portfolio Website](https://github.com/yourusername/portfolio) – Personal website built with HTML/CSS/JS
 - [Halloween Game](https://github.com/Davidva0812/halloween-shooter-game) – Pygame project
 - [Movie API](https://github.com/Davidva0812/movie-api) – Python API project
 - [Weather API](https://github.com/Davidva0812/weather-api) – Python API project
