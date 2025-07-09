@@ -6,7 +6,7 @@ I enjoy building things from scratch — from browser-based apps to backend APIs
 ---
 
 ## 🔧 Tech stack
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Python, SQL
 - **Frameworks & Tools:** Flask, Pygame, Pandas, Ploty, Tkinter, Requests, Numpy, Scikit-learn, Git
 - **Other:** REST APIs, Data analysis, Game development
