@@ -50,6 +50,5 @@ I'm passionate about building apps, solving real-world problems with code, and l
 ---
 
 ## 📫 Get in touch
-- Email: [david.varga.1208@gmail.com](mailto:david.varga.1208@gmail.com)
 - Personal portfolio website: https://davidva0812.github.io/Personal-portfolio/
 
