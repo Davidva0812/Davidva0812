@@ -1,4 +1,4 @@
-# Hi there, I'm David Varga 👋
+# Hi there, I'm David👋
 
 I'm a **junior full-stack developer** with a strong focus on **Python** and **JavaScript**.  
 I enjoy building things from scratch — from browser-based apps to backend APIs and even 2D games.
@@ -51,4 +51,3 @@ I'm passionate about building apps, solving real-world problems with code, and l
 
 ## 📫 Get in touch
 - Personal portfolio website: https://davidva0812.github.io/Personal-portfolio/
-
