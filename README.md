@@ -30,14 +30,15 @@ and much more...
 ---
 
 ## 📦 Other Projects  
-- [To-do List](https://github.com/Davidva0812/To-do-list) – React
+- [AI-Powered Document Search](https://github.com/Davidva0812/semantic-knowledge-base) - Semantic Search Engine using Vector Embeddings
 - [Portfolio Website](https://github.com/Davidva0812/Personal-portfolio) – Personal website built with HTML/CSS/JS(React)
 - [Fantasy RPG game Website](https://github.com/Davidva0812/Fantasy-website) – Website for Tales of Eldoria built with HTML/CSS(Bootstrap)/JS
 - [Data Analysis](https://github.com/Davidva0812/financial-analysis) – Python + Pandas + Plotly
-- [Halloween Game](https://github.com/Davidva0812/halloween-shooter-game) – Pygame project
+- [Bitcoin prediction](https://github.com/Davidva0812/bitcoin-prediction) – Python project using simple Machine Learning.
+- [To-do List](https://github.com/Davidva0812/To-do-list) – React
 - [Movie API](https://github.com/Davidva0812/movie-api) – Python API project
 - [Weather API](https://github.com/Davidva0812/weather-api) – Python API project
-- [Bitcoin prediction](https://github.com/Davidva0812/bitcoin-prediction) – Python project using simple Machine Learning.
+- [Halloween Game](https://github.com/Davidva0812/halloween-shooter-game) – Pygame project
 - [Calculator](https://github.com/Davidva0812/calculator) – Python project with Tkinter 
 
 
