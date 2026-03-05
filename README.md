@@ -51,4 +51,5 @@ I'm passionate about building apps, solving real-world problems with code, and l
 ---
 
 ## 📫 Get in touch
+- LinkedIn profile: https://www.linkedin.com/in/david-varga-
 - Personal portfolio website: https://davidva0812.github.io/Personal-portfolio/
