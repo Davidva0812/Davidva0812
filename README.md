@@ -30,7 +30,7 @@ and much more...
 ---
 
 ## 📦 Other Projects  
-- [AI-RAG-Knowledge-Base](https://github.com/Davidva0812/semantic-knowledge-base) - Multilingual RAG system using ChromaDB and Llama 3 to chat with private documents.
+- [Personal RAG AI Assistant](https://github.com/Davidva0812/personal-rag-ai-assistant) - Multilingual RAG system using ChromaDB and Llama 3 to chat with private documents.
 - [Portfolio Website](https://github.com/Davidva0812/Personal-portfolio) – Personal website built with HTML/CSS/JS(React)
 - [Fantasy RPG game Website](https://github.com/Davidva0812/Fantasy-website) – Website for Tales of Eldoria built with HTML/CSS(Bootstrap)/JS
 - [Data Analysis](https://github.com/Davidva0812/financial-analysis) – Python + Pandas + Plotly
