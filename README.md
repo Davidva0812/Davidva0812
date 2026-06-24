@@ -32,6 +32,7 @@ and much more...
 ## 📦 Other Projects  
 - [Personal RAG AI Assistant](https://github.com/Davidva0812/personal-rag-ai-assistant) - Multilingual RAG system using ChromaDB and Llama 3 to chat with private documents.
 - [Portfolio Website](https://github.com/Davidva0812/Personal-portfolio) – Personal website built with HTML/CSS/JS(React)
+- [FinTech Order & Transaction Management System](https://github.com/Davidva0812/fintech-order-transaction-fastapi) - A production-ready asynchronous backend demonstrating strict ACID transactions and automated rollback safety.
 - [Fantasy RPG game Website](https://github.com/Davidva0812/Fantasy-website) – Website for Tales of Eldoria built with HTML/CSS(Bootstrap)/JS
 - [Data Analysis](https://github.com/Davidva0812/financial-analysis) – Python + Pandas + Plotly
 - [Bitcoin prediction](https://github.com/Davidva0812/bitcoin-prediction) – Python project using simple Machine Learning.
